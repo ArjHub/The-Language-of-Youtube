@@ -20,10 +20,7 @@ Follow these steps to install and set up the application:
 To use the application, follow these steps:
 
 1. Open a terminal or command prompt and navigate to the project directory.
-2. Run the Flask development server by executing the following command:
-   ```
-   flask run
-   ```
+2. Run the Flask development server app.py.
 3. Open your web browser and visit [http://127.0.0.1:5000](http://127.0.0.1:5000) or [http://localhost:5000](http://localhost:5000).
 4. You will see the web interface where you can enter the title and description of a video.
 5. After entering the necessary information, click on the "Predict" button.
